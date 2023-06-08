@@ -1,3 +1,6 @@
+# Purpose
+The purpose of this project is to learn and play with GraphQL
+
 # GraphQL Speaker Session API
 
 This is a GraphQL API for managing speakers and their sessions for a fictional event. It is built using JavaScript and utilizes Apollo Server for creating the GraphQL API. The API also integrates with an external API for retrieving speaker data, which is connected to the GraphQL API using Apollo Server Rest Data Source.
